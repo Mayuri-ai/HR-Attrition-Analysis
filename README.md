@@ -1,8 +1,8 @@
-📊 Project Title: Employee Attrition Analysis Dashboard
-1. Objective:
+1. Project Title: Employee Attrition Analysis Dashboard
+2. Objective:
 To analyze employee attrition patterns and identify key factors influencing employee turnover, enabling HR teams to take proactive measures for employee retention and workforce stability.
 
-2. Key Insights & Metrics Displayed:
+3. Key Insights & Metrics Displayed:
 
 Total Employees: 1,470
 
@@ -12,7 +12,7 @@ Attrition Rate: 16.12%
 
 Male Attrition: 150 | Female Attrition: 87
 
-3. Dashboard Components:
+4. Dashboard Components:
 
 Attrition Trend:
 Line chart showing attrition count over time, highlighting peaks and fluctuations in employee exits.
@@ -41,7 +41,7 @@ Highlights the attrition trend based on years of service (highest in 0–1 year 
 Other Factors:
 Analysis of secondary reasons like non-competitive workload and compensation concerns.
 
-4. Tools & Techniques Used:
+5. Tools & Techniques Used:
 
 Tool: Microsoft Power BI
 
@@ -51,12 +51,12 @@ Data Modeling: Relationships and calculated measures using DAX (Attrition %, Tot
 
 Visualization: Line charts, bar charts, heatmaps, and slicers for interactive filtering
 
-5. Outcome / Impact:
+6. Outcome / Impact:
 
 Helped HR identify high-risk employee groups prone to leaving early.
 
 Improved decision-making by highlighting key attrition drivers like salary, job satisfaction, and age.
 
 Supported the design of targeted retention strategies and improved workforce planning.
-6. Dashboard Screenshot
+7. Dashboard Screenshot
 https://github.com/Mayuri-ai/HR-Attrition-Analysis/blob/main/HRAttritionDashboard_Screenshot.png
