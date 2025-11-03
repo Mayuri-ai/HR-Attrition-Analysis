@@ -59,3 +59,4 @@ Improved decision-making by highlighting key attrition drivers like salary, job 
 
 Supported the design of targeted retention strategies and improved workforce planning.
 6. Dashboard Screenshot
+https://github.com/Mayuri-ai/HR-Attrition-Analysis/blob/main/HRAttritionDashboard_Screenshot.png
